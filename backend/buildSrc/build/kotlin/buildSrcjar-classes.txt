@@ -1,0 +1,1 @@
+/home/max/Documents/Development/Projects/Privat/2022/DDLtoKtorm/backend/buildSrc/build/classes/kotlin/main/Versions.class
