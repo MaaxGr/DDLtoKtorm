@@ -2,7 +2,8 @@
 
 ## Overview
 
-Create Ktorm Table- and Entity boilerplate code from sql ddl. 
+Create Ktorm Table- and Entity boilerplate code from sql ddl.
+Public Playground: https://ddltoktorm.maax.gr/
 
 
 ## Supported Dialects
@@ -14,7 +15,6 @@ Create Ktorm Table- and Entity boilerplate code from sql ddl.
 
 ## Next steps
 
-* [ ] Implement and deploy frontend for better usability  
 * [ ] Make MySQL dialect support stable
   * [ ] Support more data types
   * [ ] Add Unit tests

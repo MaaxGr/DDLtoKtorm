@@ -9,10 +9,8 @@ class SchemaGenerator() {
         val lastBracket = flatSql.lastIndexOf(")")
 
         val prefixString = flatSql.substring(0, firstBracket).trim()
-        println(prefixString)
 
         val columnDefinitions = flatSql.substring(firstBracket + 1, lastBracket).trim()
-        println(columnDefinitions)
 
         var databaseAndtableName = prefixString.split(" ").last()
 
