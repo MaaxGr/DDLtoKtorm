@@ -1,8 +1,7 @@
 # DDLtoKtorm
 
 > [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
+> This project is deprecated and archived do to chatgpt and github copilot.
 
 
 ## Overview
