@@ -1,10 +1,10 @@
 # DDLtoKtorm
 
-{% warning %}
+{% note %}
 
 Test^^
 
-{% endwarning %}
+{% endnote %}
 
 
 ## Overview
