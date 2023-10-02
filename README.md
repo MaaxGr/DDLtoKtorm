@@ -1,7 +1,7 @@
 # DDLtoKtorm
 
 > [!WARNING]  
-> This project is deprecated and archived do to chatgpt and github copilot.
+> This project is deprecated and archived due to chatgpt and github copilot.
 
 
 ## Overview
